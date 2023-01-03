@@ -14,7 +14,5 @@ public class _15_AssigningValueInTwoDimensionalArrays {
             }
             System.out.println();
         }
-
-
     }
 }
