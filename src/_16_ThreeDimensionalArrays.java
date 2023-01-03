@@ -11,7 +11,8 @@ public class _16_ThreeDimensionalArrays {
                 }System.out.println();
             }System.out.println();
         }
-
-
+        System.out.println("adad");
+        System.out.println("adad");
     }
+
 }
