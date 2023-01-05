@@ -8,5 +8,15 @@ public class _22_RelationalOperators {
         System.out.println(sonuc);
         sonuc = sayı1>sayı2;
         System.out.println(sonuc);
+
+        if (sayı1<sayı2){
+            System.out.println("d");
+        }
+        else {
+            System.out.println("y");
+        }
+
+
+
     }
 }
